@@ -1,4 +1,4 @@
 
 # local env files
-../venv/
-./backend/.env*.local
+
+.env*.local
