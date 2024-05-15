@@ -1,4 +1,4 @@
 
-./venv/
+../venv/
 
 ./backend/.env.local
